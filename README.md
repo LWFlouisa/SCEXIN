@@ -42,3 +42,17 @@ Experience books are broken down into chapters, with string replacement used to 
 
 ## Extracting data
 Information from experience is this used to inform the insight given to a student.
+
+## Recording experience for gradual knowledge gained
+This can be used for more gradualist end game scenarios that record the wisdim gains from previous heroes.
+~~~
+  0.50 Total defeat, record experience
+ 12.75 Near total defeat, record experience
+ 25.00 Partial defeat, record experience
+ 37.50 Almost semi-victorious, record experience
+ 50.00 Semi-Victory, record experience
+ 62.50 Nearing partial victory, record experience
+ 75.00 Partial victory, record experience
+ 87.50 Near total victory, record experience
+100.00 Total victory, record experience
+~~~
