@@ -46,6 +46,10 @@ def document_wisdom
       #{chapters}
     </container>
   </screen>"
+
+  File.open("lib/data/wisdom/your_previous_incarnation.xml", "w") { |f|
+    f.puts screen
+  }
 end
 
 def choose_adage
